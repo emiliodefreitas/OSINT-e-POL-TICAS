@@ -162,18 +162,9 @@ flowchart TD
 
 ---
 
-*Este documento faz parte do projeto [Nome do Seu Projeto] - Framework de Análise Quantitativa para OSINT*
+*Este documento faz parte do projeto Framework de Análise Quantitativa para OSINT*
 
 **Última atualização:** Março 2026
-```
 
-Este Markdown está pronto para ser copiado e colado no GitHub! O conteúdo inclui:
 
-- ✅ Títulos e subtítulos formatados corretamente
-- ✅ Índice com links âncora funcionais
-- ✅ Tabelas para organizar informações
-- ✅ Fluxogramas Mermaid para visualizar os processos
-- ✅ Blocos de código para fórmulas
-- ✅ Destaques visuais com emojis e formatação
 
-Basta criar um arquivo `.md` no seu repositório e colar todo este conteúdo!
